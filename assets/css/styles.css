@@ -61,3 +61,10 @@ img {
   border-radius: 10px;
   margin: 10px;
 }
+ul {
+  list-style-type: "🥞";
+  color: #888888;
+  padding: 10px;
+  margin-left: 50px;
+  line-height: 20px;
+}
